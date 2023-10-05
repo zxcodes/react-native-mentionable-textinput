@@ -9,19 +9,11 @@ export default StyleSheet.create({
   },
 
   textInInputText: {
-    color: '#000',
-    fontWeight: '500',
-    fontSize: 15,
-    paddingTop: 0,
-    paddingBottom: 0,
+    color: '#FFF',
   },
 
   mentionInInputText: {
-    color: '#000',
-    fontWeight: '800',
-    fontSize: 15,
-    paddingTop: 0,
-    paddingBottom: 0,
+    color: '#fff',
   },
 
   separator: {

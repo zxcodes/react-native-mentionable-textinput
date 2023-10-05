@@ -1,6 +1,6 @@
 {
   "name": "react-native-mentionable-textinput",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "ReactNative TextInput with enhanced capabilities for mentions",
   "main": "./src/index.tsx",
   "scripts": {
@@ -16,13 +16,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/matteodanelli/react-native-mentionable-textinput",
+  "repository": "https://github.com/zxcodes/react-native-mentionable-textinput",
   "author": "Jarvis <roachteo@gmail.com> (https://github.com/matteodanelli)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matteodanelli/react-native-mentionable-textinput/issues"
+    "url": "https://github.com/zxcodes/react-native-mentionable-textinput/issues"
   },
-  "homepage": "https://github.com/matteodanelli/react-native-mentionable-textinput#readme",
+  "homepage": "https://github.com/zxcodes/react-native-mentionable-textinput#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "cache": "~/.npm"

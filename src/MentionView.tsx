@@ -119,7 +119,6 @@ const MentionView = <T,>(props: Props<T>) => {
           showsVerticalScrollIndicator={false}
           horizontal={false}
           data={mentionableItems}
-          keyExtractor={getMentionKey}
           keyboardDismissMode="none"
           keyboardShouldPersistTaps="always"
           renderItem={renderMentionItemInternal}
